@@ -6,9 +6,9 @@ color:
   saturation: 0.6938003979157656
   rhythmicContrast: 0.1681305158417672
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: Is It True That...?

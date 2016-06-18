@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Is It True That...?]]></title>
+        <description><![CDATA[Is It True That...?]]></description>
+        <link>https://thegrid.ai/is-it-true-that/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 14:46:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/is-it-true-that/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">731d8453-dbed-4a70-9a8f-312ea5082d74</guid>
+            <pubDate>Sat, 18 Jun 2016 14:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
+            <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
+            <guid isPermaLink="false">718a331f-9857-47f7-b077-187bed452386</guid>
+            <pubDate>Sat, 18 Jun 2016 14:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Untold Story of Magic Leap, the World's Most Secretive Startup]]></title>
+            <description><![CDATA[<article><h1>The Untold Story of Magic Leap, the World's Most Secretive Startup</h1><p>T There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot drone from an alien planet hovers chest-high in front of a row of potted plants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c074a0d302be59dce473c720dd3426bf33ec9c32.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/magic-leap-vr/?utm_content=buffer05f4e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">9fcee79e-487e-4bbb-a6b0-d3c9620721e1</guid>
+            <pubDate>Sat, 18 Jun 2016 14:46:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
